@@ -1,4 +1,4 @@
-//Task 1 - sub task 1 - complete
+//Task 1 - sub task 1 - complete ✅
 
 //Write a function called makeLegend, which takes in a name (string) as its only argument. The function should return a new string which includes the name plus the words ' is now a legend.'.
 //For example, makeLegend('David Beckham') should return 'David Beckham is now a legend.'.
@@ -27,7 +27,7 @@ const celebs = [
 const legend = makeLegend(celebs[0]);
 console.log(legend); // David Beckham is now a legend.
 
-//Task 1 - sub task 2 - complete
+//Task 1 - sub task 2 - complete ✅
 
 //Using the makeLegend function, the celebs array and a for loop, create a new array which includes ' is now a legend.' 
 //for each celebrity. Save this new array to the variable legendaryCelebs.
@@ -41,7 +41,7 @@ for (let i = 0; i < celebs.length; i++) {
 
 console.log(legendaryCelebs);
 
-//Task 1 - sub task 3 - complete
+//Task 1 - sub task 3 - complete ✅
 
 //Use another for loop to produce a new array of all of the celebrity names which start with a vowel, 
 //and store that new array in a new variable called vowelCelebs.
