@@ -58,7 +58,7 @@ document.getElementById('order-list').addEventListener('click', orderList);
 // Add a new label and input field element to your index.html file. ✅
 //This input field represents the priority value of your important thing, and should take in a number. ✅
 //Refactor your code so that, when you click your Add To List button, you add an object to your array, rather than a string value. For example: let importantThings = [{text: 'telephone mother', priority: 1}].
-✅
+//✅
 // Bonus Task 4 
 
 //Add a new button to your site called Order List. ✅
